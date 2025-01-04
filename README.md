@@ -17,7 +17,7 @@ o	The model is fine-tuned for IT troubleshooting scenarios, ensuring domain-spec
 4.	User Interface:
 o	Built using Gradio for an intuitive and interactive experience.
 o	Real-time text based chatbot capabilities allow seamless interaction for users.
-o	In future we will also add Real-time text and audio input/output capabilities.
+o	In future I will also add Real-time text and audio input/output capabilities.
 5.	Deployment Environment:
 o	Developed on Google Colab for rapid prototyping.
 o	Scalable cloud-based deployment options ensure widespread accessibility.
