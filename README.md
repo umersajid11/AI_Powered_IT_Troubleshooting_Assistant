@@ -1,4 +1,6 @@
 # AI_Powered_IT_Troubleshooting_Assistant
+
+# A live demo of the AI-Powered IT Troubleshooting Assistant, including the user interface and working chatbot, is available at: https://huggingface.co/spaces/UmerSajid/Diabetes_ChatbotDemo
 AI-Powered IT Troubleshooting Assistant
 Objective:
 The AI-Powered IT Troubleshooting Assistant is a cutting-edge tool designed to revolutionize the way IT support is delivered. By integrating Retrieval-Augmented Generation (RAG) with generative AI, this assistant provides immediate, accurate, and context-aware solutions to IT problems across a wide spectrum of categories. These include Cloud Computing, Hardware, MAC, Microsoft Office, Mobile Devices, Network, Security, Software, and System issues. The primary objective is to minimize downtime, enhance user experience, and empower IT professionals with a reliable, intelligent assistant.
